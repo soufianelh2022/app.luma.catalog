@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "adsEnabled": true,
+  "appOpenEnabled": true,
+  "appOpenAdUnitId": "",
+  "rewardedEnabled": true,
+  "rewardedAdUnitId": "",
+  "interstitialEnabled": true,
+  "interstitialAdUnitId": "",
+  "bannerEnabled": true,
+  "bannerAdUnitId": "",
+  "nativeEnabled": true,
+  "nativeAdUnitId": "",
+  "fullscreenIntervalSeconds": 30,
+  "interstitialEveryDetails": 1,
+  "nativeEveryItems": 6,
+  "loadTimeoutSeconds": 20,
+  "cacheTtlSeconds": 3600,
+  "maintenance": {
+    "enabled": false,
+    "title": "Технические работы",
+    "message": "Приложение временно недоступно: ведутся технические работы. Вы можете установить RuStore с официального сайта.",
+    "buttonText": "Установить RuStore",
+    "buttonUrl": "https://www.rustore.ru/instruction"
+  },
+  "adsProvider": "yandex",
+  "applovin": {
+    "sdkKey": "QII74VqNKthnmHirpqqZGK8Jc9P2P_OFnlwWRqIbR8xlmupW0CDRrFC46xOyGXqe8dmt2pHG305BK9KusBV1SR",
+    "appOpenAdUnitId": "70bd9c040ae83099",
+    "interstitialAdUnitId": "1875a2f56ad2abe4",
+    "rewardedAdUnitId": "d18fbae351dc5092",
+    "bannerAdUnitId": "9f590a8acf0b0621",
+    "nativeAdUnitId": "d27c77afa7b94fe9"
+  }
+}
