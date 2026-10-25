@@ -23,7 +23,7 @@
     "buttonText": "Установить RuStore",
     "buttonUrl": "https://www.rustore.ru/instruction"
   },
-  "adsProvider": "yandex",
+  "adsProvider": "applovin",
   "applovin": {
     "sdkKey": "QII74VqNKthnmHirpqqZGK8Jc9P2P_OFnlwWRqIbR8xlmupW0CDRrFC46xOyGXqe8dmt2pHG305BK9KusBV1SR",
     "appOpenAdUnitId": "70bd9c040ae83099",
